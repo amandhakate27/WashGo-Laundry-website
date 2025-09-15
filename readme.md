@@ -46,6 +46,11 @@ Tudedude assignment 4/
 - You can add or remove services by editing the services section in `index.html`.
 - Update styles in `style.css` as needed.
 
+## netlify link
+
+- https://washgo.netlify.app
+
 ## License
 
-This project is for educational/demo purposes.
+- all rights reserved
+- @amandhakate
